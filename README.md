@@ -9,7 +9,8 @@ If you want to create your own bot, you can basically follow the steps given [he
 
 OR
 
-[![Deploy]( https://github.com/Shivasengar12/Phonixkechode )
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Shivasengar12/Phonixkechode).
+
 
 ### Note
 We don't support Heroku anymore. If you can't get it working on Heroku, please don't come to the support chat and complain/ask for assistance.
